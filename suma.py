@@ -1,5 +1,7 @@
 a=5
 b=7
 suma= a+b
-print (f"la suma en {a} y {b} es {suma}")
+resta = b-a
+print (f"la suma entre {a} y {b} es {suma}")
+print (f"la resta entre {b} y {a} es {resta}")
 
